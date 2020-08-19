@@ -21,4 +21,4 @@ Je me présente, je suis Siraak_ un jeune homme âgé de 16 ans né à Paris qui
 <br/><br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=0xSiraak&theme=dark"/>
 <br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xSiraak&theme=dar"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xSiraak&theme=dark"/>
