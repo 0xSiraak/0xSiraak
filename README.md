@@ -1,7 +1,7 @@
 ### Salutations distingués 👋
 
 
-Siraak_, jeune homme âgé de 16 ans passioné par tout ce qui touche le développement et le pentest.
+Je me présente, je suis Siraak_ un jeune homme âgé de 16 ans né à Paris qui est passioné par tout ce qui touche la programmation et le pentest.
 <br/>
 
 **Mes réseaux sociaux 🌐**
