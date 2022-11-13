@@ -11,6 +11,6 @@
 <p align="center">
   <strong>Salutations dinstiguées</strong> 👋
   <br/>
-  Je me présente, je suis Siraak_ un jeune adolescent parisien de 17 ans passioné par l'infosec et les animés.
+  Je me présente, je suis Siraak_ un jeune adolescent parisien de 18 ans passioné par l'infosec et les animés.
   <br/>Sur mon GitHub vous trouverez principalement des projets personnels, des write-ups ou des travaux pratiques que j'ai pu faire afin de m'améliorer.
 </p>
