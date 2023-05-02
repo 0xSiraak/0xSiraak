@@ -1,12 +1,6 @@
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Langages%20ma%C3%AEtris%C3%A9s%20-%20HTML,%20CSS,%20JS,%20PY,%20PHP-critical"><br/>
-  <a href="https://twitter.com/siraak_qlf"><img border="0" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/twitter.svg"></a>
-</p>
-
-<p align="center">
-  <strong>Salutations dinstiguées</strong> 👋
-  <br/>
-  Je me présente, je suis Siraak_ un jeune adolescent parisien de 19 ans passioné par l'infosec et les animés.
-  <br/>Sur mon GitHub vous trouverez principalement des projets personnels, des write-ups ou des travaux pratiques que j'ai pu faire afin de m'améliorer.
-</p>
+<div>
+  <h1 align="center">
+    Hello ! 👋
+  </h1>
+  <p align="center">| username : Siraak_ ~ age : 19 ~ location : France |</p>
+</div>
