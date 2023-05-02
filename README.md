@@ -1,4 +1,3 @@
-<img align src="https://media.discordapp.net/attachments/738603939989291062/747235494072680569/1500x500.png">
 
 <p align="center">
   <img src="https://img.shields.io/badge/Langages%20ma%C3%AEtris%C3%A9s%20-%20HTML,%20CSS,%20JS,%20PY,%20PHP-critical"><br/>
