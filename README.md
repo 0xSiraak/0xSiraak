@@ -1,6 +1,37 @@
-<div>
-  <h1 align="center">
-    Hello ! 👋
-  </h1>
-  <p align="center">| username : Siraak_ ~ age : 19 ~ location : France |</p>
-</div>
+```json
+{
+  "informations": {
+    "me": {
+      "username": "Siraak_",
+      "age": "19",
+      "location": "France",
+      "gender": "male"
+    },
+    "skills": {
+      "technologies": {
+        "languages": [
+          "python",
+          "php",
+          "javascript"
+        ],
+        "databases": [
+          "mysql",
+          "mariadb",
+          "mongodb",
+          "redis"
+        ]
+      },
+      "others": [
+        "web",
+        "steganography",
+        "network"
+      ]
+    },
+    "learning": [
+      "re",
+      "pwn",
+      "cryptography"
+    ]
+  }
+}
+```
